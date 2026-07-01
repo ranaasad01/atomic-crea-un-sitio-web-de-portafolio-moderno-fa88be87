@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact",
+    "cta": "Download CV"
+  },
+  "footer": {
+    "tagline": "Building modern digital experiences with clean code and intentional design.",
+    "nav_title": "Navigation",
+    "contact_title": "Contact",
+    "copyright": "© {year} {name}. All rights reserved.",
+    "made_with": "Made with",
+    "made_with_end": "in Madrid"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Alex Moreno",
+    "role": "Full Stack Developer",
+    "description": "I create modern, scalable, and high-performance web applications. Specialized in React, Next.js, and Node.js.",
+    "cta_primary": "View projects",
+    "cta_secondary": "Download CV",
+    "scroll_hint": "Scroll to explore"
+  },
+  "about": {
+    "label": "About",
+    "title": "Passion for code,\nobsession with detail",
+    "description_1": "I'm a full stack developer with over 5 years of experience building digital products that combine technical performance with thoughtful design.",
+    "description_2": "I specialize in the modern JavaScript ecosystem: React, Next.js, TypeScript, and Node.js. I enjoy solving complex problems with elegant solutions.",
+    "stat_1_value": "5+",
+    "stat_1_label": "Years of experience",
+    "stat_2_value": "40+",
+    "stat_2_label": "Projects completed",
+    "stat_3_value": "15+",
+    "stat_3_label": "Satisfied clients"
+  },
+  "skills": {
+    "label": "Skills",
+    "title": "Tech stack",
+    "description": "Technologies I work with daily to build robust and scalable products.",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "tools": "Tools"
+  },
+  "projects": {
+    "label": "Projects",
+    "title": "Selected work",
+    "description": "A selection of projects that reflect my focus on quality, performance, and user experience.",
+    "view_live": "View live",
+    "view_code": "View code",
+    "view_all": "View all projects"
+  },
+  "experience": {
+    "label": "Experience",
+    "title": "Professional journey",
+    "description": "My path in software development, from less to greater responsibility."
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Let's work together",
+    "description": "Do you have a project in mind? I'd love to hear from you. Write to me and I'll respond in less than 24 hours.",
+    "name_label": "Name",
+    "name_placeholder": "Your full name",
+    "email_label": "Email",
+    "email_placeholder": "your@email.com",
+    "message_label": "Message",
+    "message_placeholder": "Tell me about your project...",
+    "submit": "Send message",
+    "sending": "Sending...",
+    "success_title": "Message sent",
+    "success_desc": "Thank you for writing to me. I'll get back to you soon.",
+    "direct_email": "Or write to me directly at"
+  }
+}

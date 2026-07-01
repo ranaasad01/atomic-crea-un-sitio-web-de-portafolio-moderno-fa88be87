@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "about": "Sobre mí",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "experience": "Experiencia",
+    "contact": "Contacto",
+    "cta": "Descargar CV"
+  },
+  "footer": {
+    "tagline": "Construyendo experiencias digitales modernas con código limpio y diseño intencional.",
+    "nav_title": "Navegación",
+    "contact_title": "Contacto",
+    "copyright": "© {year} {name}. Todos los derechos reservados.",
+    "made_with": "Hecho con",
+    "made_with_end": "en Madrid"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "name": "Alex Moreno",
+    "role": "Desarrollador Full Stack",
+    "description": "Creo aplicaciones web modernas, escalables y de alto rendimiento. Especializado en React, Next.js y Node.js.",
+    "cta_primary": "Ver proyectos",
+    "cta_secondary": "Descargar CV",
+    "scroll_hint": "Desplázate para explorar"
+  },
+  "about": {
+    "label": "Sobre mí",
+    "title": "Pasión por el código,\nobsesión por el detalle",
+    "description_1": "Soy un desarrollador full stack con más de 5 años de experiencia construyendo productos digitales que combinan rendimiento técnico con diseño cuidado.",
+    "description_2": "Me especializo en el ecosistema JavaScript moderno: React, Next.js, TypeScript y Node.js. Disfruto resolver problemas complejos con soluciones elegantes.",
+    "stat_1_value": "5+",
+    "stat_1_label": "Años de experiencia",
+    "stat_2_value": "40+",
+    "stat_2_label": "Proyectos completados",
+    "stat_3_value": "15+",
+    "stat_3_label": "Clientes satisfechos"
+  },
+  "skills": {
+    "label": "Habilidades",
+    "title": "Stack tecnológico",
+    "description": "Tecnologías con las que trabajo a diario para construir productos robustos y escalables.",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "tools": "Herramientas"
+  },
+  "projects": {
+    "label": "Proyectos",
+    "title": "Trabajo seleccionado",
+    "description": "Una selección de proyectos que reflejan mi enfoque en calidad, rendimiento y experiencia de usuario.",
+    "view_live": "Ver en vivo",
+    "view_code": "Ver código",
+    "view_all": "Ver todos los proyectos"
+  },
+  "experience": {
+    "label": "Experiencia",
+    "title": "Trayectoria profesional",
+    "description": "Mi recorrido en el mundo del desarrollo de software, de menor a mayor responsabilidad."
+  },
+  "contact": {
+    "label": "Contacto",
+    "title": "Trabajemos juntos",
+    "description": "¿Tienes un proyecto en mente? Me encantaría escucharte. Escríbeme y te respondo en menos de 24 horas.",
+    "name_label": "Nombre",
+    "name_placeholder": "Tu nombre completo",
+    "email_label": "Correo electrónico",
+    "email_placeholder": "tu@email.com",
+    "message_label": "Mensaje",
+    "message_placeholder": "Cuéntame sobre tu proyecto...",
+    "submit": "Enviar mensaje",
+    "sending": "Enviando...",
+    "success_title": "Mensaje enviado",
+    "success_desc": "Gracias por escribirme. Te responderé pronto.",
+    "direct_email": "O escríbeme directamente a"
+  }
+}
